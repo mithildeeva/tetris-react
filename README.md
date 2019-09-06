@@ -1,4 +1,4 @@
-Tetris game implented using [Reactjs](https://reactjs.org/)
+Tetris game implemented using [Reactjs](https://reactjs.org/)
 
 Developed using [react hooks](https://reactjs.org/docs/hooks-intro.html) and styled with [styled-components](https://www.styled-components.com/)
 
